@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="radius" format="integer"></attr>
+    <attr name="circularSpace" format="integer"></attr>
+    <declare-styleable name="UnevenSurfaceView">
+        <attr name="radius" />
+        <attr name="circularSpace" />
+    </declare-styleable>
+</resources>
